@@ -1,0 +1,4 @@
+C:\Users\50526683848\Desktop\aula-backend\DesafioLaco02\obj\Debug\net8.0\DesafioLaco02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50526683848\Desktop\aula-backend\DesafioLaco02\obj\Debug\net8.0\DesafioLaco02.AssemblyInfoInputs.cache
+C:\Users\50526683848\Desktop\aula-backend\DesafioLaco02\obj\Debug\net8.0\DesafioLaco02.AssemblyInfo.cs
+C:\Users\50526683848\Desktop\aula-backend\DesafioLaco02\obj\Debug\net8.0\DesafioLaco02.csproj.CoreCompileInputs.cache
